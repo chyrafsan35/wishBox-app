@@ -1,16 +1,46 @@
-# React + Vite
+# Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this website, users can create and save wishes in their dashboard. Cards can be generated for these wishes as well. Users can download these beautiful wish cards. After creating profile, each user will be provided with unique profile link. This link can be shared in any social platform to get anonymous messages. 
 
-Currently, two official plugins are available:
+<p align="center" style="display: flex; overflow-x: auto; gap: 10px;">
+  <img src="https://i.ibb.co.com/7NVcw78S/Screenshot-2026-01-01-154942.png" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
 
-## React Compiler
+<ul>
+  <li>React</li>
+  <li>Node js</li>
+  <li>Javascript</li>
+  <li>Tailwind CSS</li>
+  <li>Daisy UI</li>
+  <li>React router</li>
+  <li>Mongodb (Database)</li>
+</ul>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Core Features
 
-## Expanding the ESLint configuration
+<ul>
+  <li><b>Generate Cards :</b> Get your wishes in beautiful card templates.</li>
+  <li><b>Anonymous Messages :</b> Get anonymous messages by sharing profile link. </li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Dependencies 
+<ul>
+  <li>Tailwind CSS</li>
+  <li>Tanstack Query</li>
+  <li>Axios</li>
+  <li>React</li>
+  <li>Firebase</li>
+  <li>React Hook Form</li>
+  <li>React Icons</li>
+  <li>SweetAlert</li>
+</ul>
+
+## Steps To Run The Project 
+1. Go to the live link
+2. In the home page, craete an account if entered as a new user
+3. Users can create wish, check mail, edit profile info from dashboard
+
+## Resources
+Live link : <a href="https://wish-box17.vercel.app/" target="_blank">https://wish-box17.vercel.app/</a>
